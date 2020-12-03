@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I am currently studying Master of Computer Applications(MCA) at B.M.S. Institute of Technology and Management(BMSIT).
 <!--
 **ManjuGH09/ManjuGH09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
